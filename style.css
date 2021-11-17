@@ -1,0 +1,25 @@
+#mabhena {
+	color: pink;
+}
+body{
+	
+	background-image: url("C://Users/LENOVO/Downloads/Telegram Desktop/photo_2021-10-22_18-13-41.jpg") ;
+	color: white;
+
+
+}
+img {
+
+	border-radius: 70%;
+}
+.box{
+
+
+    with: 250px;
+    padding: 40px;
+    text-align: left;
+    margin: auto;
+}
+#download{
+	color: blue;
+}
